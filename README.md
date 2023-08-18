@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rentianrui57
+- 👀 I’m interested in Data science student proficient in Python and pandas. 
+- 🌱 I’m currently learning Committed to analyzing data and deriving valuable insights.
